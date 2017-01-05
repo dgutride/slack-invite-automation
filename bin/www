@@ -39,7 +39,7 @@ function normalizePort(val) {
  */
 
 
-var port = normalizePort(process.env.OPENSHIFT_NODEJS_PORT || '3000');
+var port = normalizePort(process.env.PORT || '8080');
 app.set('port', port);
 
 /**
