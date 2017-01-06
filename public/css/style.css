@@ -93,7 +93,6 @@ margin-top: 20px;
 }
 
 .field{
-background: url(../images/field.png) repeat;
 width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
@@ -130,7 +129,7 @@ right: 15px;
 top: 13px;
 padding: 3px 10px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
-background: #ffffff;
+background: #eeeeee;
 border: none;
 font-family: 'Lato', sans-serif;
 font-size: 14px;
@@ -140,7 +139,7 @@ cursor: pointer;
 
 
 .submit:hover{
-background: #eeeeee;
+background: #c7c2c2;
 }
 
 .error {
